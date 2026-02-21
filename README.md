@@ -15,7 +15,7 @@ A Machine Learning project that predicts which passengers survived the Titanic s
 
 ## 📁 Files
 - `titanic_model.ipynb`: The main code file containing logic and analysis.
-- `titanic_predictions.csv`: The final output file with passenger names and prediction.
+- `final_answer.csv`: The final output file with passenger names and prediction.
 
 ## 🚀 How to Run
 1. Install requirements: `pip install pandas scikit-learn`
