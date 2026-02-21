@@ -1,0 +1,418 @@
+Name,PassengerId,Survived,Status
+"Kelly, Mr. James",892,0,Not Survived
+"Wilkes, Mrs. James (Ellen Needs)",893,0,Not Survived
+"Myles, Mr. Thomas Francis",894,0,Not Survived
+"Wirz, Mr. Albert",895,0,Not Survived
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",896,1,Survived
+"Svensson, Mr. Johan Cervin",897,0,Not Survived
+"Connolly, Miss. Kate",898,1,Survived
+"Caldwell, Mr. Albert Francis",899,0,Not Survived
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",900,1,Survived
+"Davies, Mr. John Samuel",901,0,Not Survived
+"Ilieff, Mr. Ylio",902,0,Not Survived
+"Jones, Mr. Charles Cresson",903,0,Not Survived
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",904,1,Survived
+"Howard, Mr. Benjamin",905,0,Not Survived
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",906,1,Survived
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",907,1,Survived
+"Keane, Mr. Daniel",908,0,Not Survived
+"Assaf, Mr. Gerios",909,0,Not Survived
+"Ilmakangas, Miss. Ida Livija",910,1,Survived
+"Assaf Khalil, Mrs. Mariana (Miriam"")""",911,1,Survived
+"Rothschild, Mr. Martin",912,0,Not Survived
+"Olsen, Master. Artur Karl",913,0,Not Survived
+"Flegenheim, Mrs. Alfred (Antoinette)",914,1,Survived
+"Williams, Mr. Richard Norris II",915,1,Survived
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",916,1,Survived
+"Robins, Mr. Alexander A",917,0,Not Survived
+"Ostby, Miss. Helene Ragnhild",918,1,Survived
+"Daher, Mr. Shedid",919,0,Not Survived
+"Brady, Mr. John Bertram",920,0,Not Survived
+"Samaan, Mr. Elias",921,0,Not Survived
+"Louch, Mr. Charles Alexander",922,0,Not Survived
+"Jefferys, Mr. Clifford Thomas",923,0,Not Survived
+"Dean, Mrs. Bertram (Eva Georgetta Light)",924,0,Not Survived
+"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",925,0,Not Survived
+"Mock, Mr. Philipp Edmund",926,1,Survived
+"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",927,0,Not Survived
+"Roth, Miss. Sarah A",928,1,Survived
+"Cacic, Miss. Manda",929,1,Survived
+"Sap, Mr. Julius",930,0,Not Survived
+"Hee, Mr. Ling",931,0,Not Survived
+"Karun, Mr. Franz",932,0,Not Survived
+"Franklin, Mr. Thomas Parham",933,0,Not Survived
+"Goldsmith, Mr. Nathan",934,0,Not Survived
+"Corbett, Mrs. Walter H (Irene Colvin)",935,1,Survived
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",936,1,Survived
+"Peltomaki, Mr. Nikolai Johannes",937,0,Not Survived
+"Chevre, Mr. Paul Romaine",938,0,Not Survived
+"Shaughnessy, Mr. Patrick",939,0,Not Survived
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",940,1,Survived
+"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",941,0,Not Survived
+"Smith, Mr. Lucien Philip",942,0,Not Survived
+"Pulbaum, Mr. Franz",943,0,Not Survived
+"Hocking, Miss. Ellen Nellie""""",944,1,Survived
+"Fortune, Miss. Ethel Flora",945,1,Survived
+"Mangiavacchi, Mr. Serafino Emilio",946,0,Not Survived
+"Rice, Master. Albert",947,0,Not Survived
+"Cor, Mr. Bartol",948,0,Not Survived
+"Abelseth, Mr. Olaus Jorgensen",949,0,Not Survived
+"Davison, Mr. Thomas Henry",950,0,Not Survived
+"Chaudanson, Miss. Victorine",951,1,Survived
+"Dika, Mr. Mirko",952,0,Not Survived
+"McCrae, Mr. Arthur Gordon",953,0,Not Survived
+"Bjorklund, Mr. Ernst Herbert",954,0,Not Survived
+"Bradley, Miss. Bridget Delia",955,1,Survived
+"Ryerson, Master. John Borie",956,1,Survived
+"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",957,1,Survived
+"Burns, Miss. Mary Delia",958,1,Survived
+"Moore, Mr. Clarence Bloomfield",959,0,Not Survived
+"Tucker, Mr. Gilbert Milligan Jr",960,1,Survived
+"Fortune, Mrs. Mark (Mary McDougald)",961,1,Survived
+"Mulvihill, Miss. Bertha E",962,1,Survived
+"Minkoff, Mr. Lazar",963,0,Not Survived
+"Nieminen, Miss. Manta Josefina",964,1,Survived
+"Ovies y Rodriguez, Mr. Servando",965,1,Survived
+"Geiger, Miss. Amalie",966,1,Survived
+"Keeping, Mr. Edwin",967,1,Survived
+"Miles, Mr. Frank",968,0,Not Survived
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",969,1,Survived
+"Aldworth, Mr. Charles Augustus",970,0,Not Survived
+"Doyle, Miss. Elizabeth",971,1,Survived
+"Boulos, Master. Akar",972,0,Not Survived
+"Straus, Mr. Isidor",973,0,Not Survived
+"Case, Mr. Howard Brown",974,0,Not Survived
+"Demetri, Mr. Marinko",975,0,Not Survived
+"Lamb, Mr. John Joseph",976,0,Not Survived
+"Khalil, Mr. Betros",977,0,Not Survived
+"Barry, Miss. Julia",978,1,Survived
+"Badman, Miss. Emily Louisa",979,1,Survived
+"O'Donoghue, Ms. Bridget",980,1,Survived
+"Wells, Master. Ralph Lester",981,0,Not Survived
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",982,1,Survived
+"Pedersen, Mr. Olaf",983,0,Not Survived
+"Davidson, Mrs. Thornton (Orian Hays)",984,1,Survived
+"Guest, Mr. Robert",985,0,Not Survived
+"Birnbaum, Mr. Jakob",986,1,Survived
+"Tenglin, Mr. Gunnar Isidor",987,0,Not Survived
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",988,1,Survived
+"Makinen, Mr. Kalle Edvard",989,0,Not Survived
+"Braf, Miss. Elin Ester Maria",990,1,Survived
+"Nancarrow, Mr. William Henry",991,0,Not Survived
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",992,1,Survived
+"Weisz, Mr. Leopold",993,0,Not Survived
+"Foley, Mr. William",994,0,Not Survived
+"Johansson Palmquist, Mr. Oskar Leander",995,0,Not Survived
+"Thomas, Mrs. Alexander (Thamine Thelma"")""",996,1,Survived
+"Holthen, Mr. Johan Martin",997,0,Not Survived
+"Buckley, Mr. Daniel",998,0,Not Survived
+"Ryan, Mr. Edward",999,0,Not Survived
+"Willer, Mr. Aaron (Abi Weller"")""",1000,0,Not Survived
+"Swane, Mr. George",1001,0,Not Survived
+"Stanton, Mr. Samuel Ward",1002,0,Not Survived
+"Shine, Miss. Ellen Natalia",1003,1,Survived
+"Evans, Miss. Edith Corse",1004,1,Survived
+"Buckley, Miss. Katherine",1005,1,Survived
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",1006,1,Survived
+"Chronopoulos, Mr. Demetrios",1007,0,Not Survived
+"Thomas, Mr. John",1008,0,Not Survived
+"Sandstrom, Miss. Beatrice Irene",1009,1,Survived
+"Beattie, Mr. Thomson",1010,1,Survived
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",1011,1,Survived
+"Watt, Miss. Bertha J",1012,1,Survived
+"Kiernan, Mr. John",1013,0,Not Survived
+"Schabert, Mrs. Paul (Emma Mock)",1014,1,Survived
+"Carver, Mr. Alfred John",1015,0,Not Survived
+"Kennedy, Mr. John",1016,0,Not Survived
+"Cribb, Miss. Laura Alice",1017,1,Survived
+"Brobeck, Mr. Karl Rudolf",1018,0,Not Survived
+"McCoy, Miss. Alicia",1019,1,Survived
+"Bowenur, Mr. Solomon",1020,0,Not Survived
+"Petersen, Mr. Marius",1021,0,Not Survived
+"Spinner, Mr. Henry John",1022,0,Not Survived
+"Gracie, Col. Archibald IV",1023,0,Not Survived
+"Lefebre, Mrs. Frank (Frances)",1024,1,Survived
+"Thomas, Mr. Charles P",1025,0,Not Survived
+"Dintcheff, Mr. Valtcho",1026,0,Not Survived
+"Carlsson, Mr. Carl Robert",1027,0,Not Survived
+"Zakarian, Mr. Mapriededer",1028,0,Not Survived
+"Schmidt, Mr. August",1029,0,Not Survived
+"Drapkin, Miss. Jennie",1030,1,Survived
+"Goodwin, Mr. Charles Frederick",1031,0,Not Survived
+"Goodwin, Miss. Jessie Allis",1032,0,Not Survived
+"Daniels, Miss. Sarah",1033,1,Survived
+"Ryerson, Mr. Arthur Larned",1034,0,Not Survived
+"Beauchamp, Mr. Henry James",1035,0,Not Survived
+"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",1036,0,Not Survived
+"Vander Planke, Mr. Julius",1037,0,Not Survived
+"Hilliard, Mr. Herbert Henry",1038,1,Survived
+"Davies, Mr. Evan",1039,0,Not Survived
+"Crafton, Mr. John Bertram",1040,0,Not Survived
+"Lahtinen, Rev. William",1041,0,Not Survived
+"Earnshaw, Mrs. Boulton (Olive Potter)",1042,1,Survived
+"Matinoff, Mr. Nicola",1043,0,Not Survived
+"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",1044,0,Not Survived
+"Asplund, Master. Filip Oscar",1045,0,Not Survived
+"Duquemin, Mr. Joseph",1046,0,Not Survived
+"Bird, Miss. Ellen",1047,0,Not Survived
+"Lundin, Miss. Olga Elida",1048,1,Survived
+"Borebank, Mr. John James",1049,1,Survived
+"Peacock, Mrs. Benjamin (Edith Nile)",1050,0,Not Survived
+"Smyth, Miss. Julia",1051,1,Survived
+"Touma, Master. Georges Youssef",1052,1,Survived
+"Wright, Miss. Marion",1053,0,Not Survived
+"Pearce, Mr. Ernest",1054,1,Survived
+"Peruschitz, Rev. Joseph Maria",1055,0,Not Survived
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1056,0,Not Survived
+"Brandeis, Mr. Emil",1057,1,Survived
+"Ford, Mr. Edward Watson",1058,0,Not Survived
+"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",1059,0,Not Survived
+"Hellstrom, Miss. Hilda Maria",1060,1,Survived
+"Lithman, Mr. Simon",1061,1,Survived
+"Zakarian, Mr. Ortin",1062,0,Not Survived
+"Dyker, Mr. Adolf Fredrik",1063,0,Not Survived
+"Torfa, Mr. Assad",1064,0,Not Survived
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",1065,0,Not Survived
+"Brown, Miss. Edith Eileen",1066,0,Not Survived
+"Sincock, Miss. Maude",1067,1,Survived
+"Stengel, Mr. Charles Emil Henry",1068,1,Survived
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",1069,0,Not Survived
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",1070,1,Survived
+"McCrie, Mr. James Matthew",1071,1,Survived
+"Compton, Mr. Alexander Taylor Jr",1072,0,Not Survived
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",1073,0,Not Survived
+"Lane, Mr. Patrick",1074,1,Survived
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1075,0,Not Survived
+"Maybery, Mr. Frank Hubert",1076,1,Survived
+"Phillips, Miss. Alice Frances Louisa",1077,0,Not Survived
+"Davies, Mr. Joseph",1078,1,Survived
+"Sage, Miss. Ada",1079,0,Not Survived
+"Veal, Mr. James",1080,0,Not Survived
+"Angle, Mr. William A",1081,0,Not Survived
+"Salomon, Mr. Abraham L",1082,0,Not Survived
+"van Billiard, Master. Walter John",1083,0,Not Survived
+"Lingane, Mr. John",1084,0,Not Survived
+"Drew, Master. Marshall Brines",1085,0,Not Survived
+"Karlsson, Mr. Julius Konrad Eugen",1086,0,Not Survived
+"Spedden, Master. Robert Douglas",1087,0,Not Survived
+"Nilsson, Miss. Berta Olivia",1088,1,Survived
+"Baimbrigge, Mr. Charles Robert",1089,1,Survived
+"Rasmussen, Mrs. (Lena Jacobsen Solvang)",1090,0,Not Survived
+"Murphy, Miss. Nora",1091,1,Survived
+"Danbom, Master. Gilbert Sigvard Emanuel",1092,1,Survived
+"Astor, Col. John Jacob",1093,0,Not Survived
+"Quick, Miss. Winifred Vera",1094,0,Not Survived
+"Andrew, Mr. Frank Thomas",1095,1,Survived
+"Omont, Mr. Alfred Fernand",1096,0,Not Survived
+"McGowan, Miss. Katherine",1097,1,Survived
+"Collett, Mr. Sidney C Stuart",1098,1,Survived
+"Rosenbaum, Miss. Edith Louise",1099,0,Not Survived
+"Delalic, Mr. Redjo",1100,1,Survived
+"Andersen, Mr. Albert Karvin",1101,0,Not Survived
+"Finoli, Mr. Luigi",1102,0,Not Survived
+"Deacon, Mr. Percy William",1103,0,Not Survived
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",1104,0,Not Survived
+"Andersson, Miss. Ida Augusta Margareta",1105,0,Not Survived
+"Head, Mr. Christopher",1106,0,Not Survived
+"Mahon, Miss. Bridget Delia",1107,0,Not Survived
+"Wick, Mr. George Dennick",1108,1,Survived
+"Widener, Mrs. George Dunton (Eleanor Elkins)",1109,0,Not Survived
+"Thomson, Mr. Alexander Morrison",1110,1,Survived
+"Duran y More, Miss. Florentina",1111,0,Not Survived
+"Reynolds, Mr. Harold J",1112,1,Survived
+"Cook, Mrs. (Selena Rogers)",1113,0,Not Survived
+"Karlsson, Mr. Einar Gervasius",1114,1,Survived
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",1115,0,Not Survived
+"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",1116,1,Survived
+"Asplund, Mr. Johan Charles",1117,1,Survived
+"McNeill, Miss. Bridget",1118,0,Not Survived
+"Everett, Mr. Thomas James",1119,1,Survived
+"Hocking, Mr. Samuel James Metcalfe",1120,0,Not Survived
+"Sweet, Mr. George Frederick",1121,0,Not Survived
+"Willard, Miss. Constance",1122,0,Not Survived
+"Wiklund, Mr. Karl Johan",1123,1,Survived
+"Linehan, Mr. Michael",1124,0,Not Survived
+"Cumings, Mr. John Bradley",1125,0,Not Survived
+"Vendel, Mr. Olof Edvin",1126,0,Not Survived
+"Warren, Mr. Frank Manley",1127,0,Not Survived
+"Baccos, Mr. Raffull",1128,0,Not Survived
+"Hiltunen, Miss. Marta",1129,0,Not Survived
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",1130,1,Survived
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",1131,1,Survived
+"Christy, Mrs. (Alice Frances)",1132,1,Survived
+"Spedden, Mr. Frederic Oakley",1133,1,Survived
+"Hyman, Mr. Abraham",1134,0,Not Survived
+"Johnston, Master. William Arthur Willie""""",1135,0,Not Survived
+"Kenyon, Mr. Frederick R",1136,0,Not Survived
+"Karnes, Mrs. J Frank (Claire Bennett)",1137,0,Not Survived
+"Drew, Mr. James Vivian",1138,1,Survived
+"Hold, Mrs. Stephen (Annie Margaret Hill)",1139,0,Not Survived
+"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",1140,1,Survived
+"West, Miss. Barbara J",1141,1,Survived
+"Abrahamsson, Mr. Abraham August Johannes",1142,1,Survived
+"Clark, Mr. Walter Miller",1143,0,Not Survived
+"Salander, Mr. Karl Johan",1144,1,Survived
+"Wenzel, Mr. Linhart",1145,0,Not Survived
+"MacKay, Mr. George William",1146,0,Not Survived
+"Mahon, Mr. John",1147,0,Not Survived
+"Niklasson, Mr. Samuel",1148,0,Not Survived
+"Bentham, Miss. Lilian W",1149,0,Not Survived
+"Midtsjo, Mr. Karl Albert",1150,1,Survived
+"de Messemaeker, Mr. Guillaume Joseph",1151,0,Not Survived
+"Nilsson, Mr. August Ferdinand",1152,0,Not Survived
+"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",1153,0,Not Survived
+"Klasen, Miss. Gertrud Emilia",1154,1,Survived
+"Portaluppi, Mr. Emilio Ilario Giuseppe",1155,1,Survived
+"Lyntakoff, Mr. Stanko",1156,0,Not Survived
+"Chisholm, Mr. Roderick Robert Crispin",1157,0,Not Survived
+"Warren, Mr. Charles William",1158,0,Not Survived
+"Howard, Miss. May Elizabeth",1159,0,Not Survived
+"Pokrnic, Mr. Mate",1160,1,Survived
+"McCaffry, Mr. Thomas Francis",1161,0,Not Survived
+"Fox, Mr. Patrick",1162,0,Not Survived
+"Clark, Mrs. Walter Miller (Virginia McDowell)",1163,0,Not Survived
+"Lennon, Miss. Mary",1164,1,Survived
+"Saade, Mr. Jean Nassr",1165,1,Survived
+"Bryhl, Miss. Dagmar Jenny Ingeborg",1166,0,Not Survived
+"Parker, Mr. Clifford Richard",1167,1,Survived
+"Faunthorpe, Mr. Harry",1168,0,Not Survived
+"Ware, Mr. John James",1169,0,Not Survived
+"Oxenham, Mr. Percy Thomas",1170,0,Not Survived
+"Oreskovic, Miss. Jelka",1171,0,Not Survived
+"Peacock, Master. Alfred Edward",1172,1,Survived
+"Fleming, Miss. Honora",1173,0,Not Survived
+"Touma, Miss. Maria Youssef",1174,1,Survived
+"Rosblom, Miss. Salli Helena",1175,1,Survived
+"Dennis, Mr. William",1176,1,Survived
+"Franklin, Mr. Charles (Charles Fardon)",1177,0,Not Survived
+"Snyder, Mr. John Pillsbury",1178,0,Not Survived
+"Mardirosian, Mr. Sarkis",1179,0,Not Survived
+"Ford, Mr. Arthur",1180,0,Not Survived
+"Rheims, Mr. George Alexander Lucien",1181,0,Not Survived
+"Daly, Miss. Margaret Marcella Maggie""""",1182,0,Not Survived
+"Nasr, Mr. Mustafa",1183,1,Survived
+"Dodge, Dr. Washington",1184,0,Not Survived
+"Wittevrongel, Mr. Camille",1185,0,Not Survived
+"Angheloff, Mr. Minko",1186,0,Not Survived
+"Laroche, Miss. Louise",1187,0,Not Survived
+"Samaan, Mr. Hanna",1188,1,Survived
+"Loring, Mr. Joseph Holland",1189,0,Not Survived
+"Johansson, Mr. Nils",1190,0,Not Survived
+"Olsson, Mr. Oscar Wilhelm",1191,0,Not Survived
+"Malachard, Mr. Noel",1192,0,Not Survived
+"Phillips, Mr. Escott Robert",1193,0,Not Survived
+"Pokrnic, Mr. Tome",1194,0,Not Survived
+"McCarthy, Miss. Catherine Katie""""",1195,0,Not Survived
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",1196,1,Survived
+"Allison, Mr. Hudson Joshua Creighton",1197,1,Survived
+"Aks, Master. Philip Frank",1198,0,Not Survived
+"Hays, Mr. Charles Melville",1199,0,Not Survived
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",1200,0,Not Survived
+"Cacic, Mr. Jego Grga",1201,0,Not Survived
+"Vartanian, Mr. David",1202,0,Not Survived
+"Sadowitz, Mr. Harry",1203,0,Not Survived
+"Carr, Miss. Jeannie",1204,0,Not Survived
+"White, Mrs. John Stuart (Ella Holmes)",1205,1,Survived
+"Hagardon, Miss. Kate",1206,1,Survived
+"Spencer, Mr. William Augustus",1207,1,Survived
+"Rogers, Mr. Reginald Harry",1208,0,Not Survived
+"Jonsson, Mr. Nils Hilding",1209,0,Not Survived
+"Jefferys, Mr. Ernest Wilfred",1210,0,Not Survived
+"Andersson, Mr. Johan Samuel",1211,0,Not Survived
+"Krekorian, Mr. Neshan",1212,0,Not Survived
+"Nesson, Mr. Israel",1213,0,Not Survived
+"Rowe, Mr. Alfred G",1214,0,Not Survived
+"Kreuchen, Miss. Emilie",1215,0,Not Survived
+"Assam, Mr. Ali",1216,1,Survived
+"Becker, Miss. Ruth Elizabeth",1217,0,Not Survived
+"Rosenshine, Mr. George (Mr George Thorne"")""",1218,1,Survived
+"Clarke, Mr. Charles Valentine",1219,0,Not Survived
+"Enander, Mr. Ingvar",1220,0,Not Survived
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",1221,0,Not Survived
+"Dulles, Mr. William Crothers",1222,1,Survived
+"Thomas, Mr. Tannous",1223,0,Not Survived
+"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1224,0,Not Survived
+"Cor, Mr. Ivan",1225,1,Survived
+"Maguire, Mr. John Edward",1226,0,Not Survived
+"de Brito, Mr. Jose Joaquim",1227,0,Not Survived
+"Elias, Mr. Joseph",1228,0,Not Survived
+"Denbury, Mr. Herbert",1229,0,Not Survived
+"Betros, Master. Seman",1230,0,Not Survived
+"Fillbrook, Mr. Joseph Charles",1231,0,Not Survived
+"Lundstrom, Mr. Thure Edvin",1232,0,Not Survived
+"Sage, Mr. John George",1233,0,Not Survived
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1234,0,Not Survived
+"van Billiard, Master. James William",1235,1,Survived
+"Abelseth, Miss. Karen Marie",1236,0,Not Survived
+"Botsford, Mr. William Hull",1237,1,Survived
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",1238,0,Not Survived
+"Giles, Mr. Ralph",1239,1,Survived
+"Walcroft, Miss. Nellie",1240,0,Not Survived
+"Greenfield, Mrs. Leo David (Blanche Strouse)",1241,1,Survived
+"Stokes, Mr. Philip Joseph",1242,1,Survived
+"Dibden, Mr. William",1243,0,Not Survived
+"Herman, Mr. Samuel",1244,0,Not Survived
+"Dean, Miss. Elizabeth Gladys Millvina""""",1245,0,Not Survived
+"Julian, Mr. Henry Forbes",1246,1,Survived
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",1247,0,Not Survived
+"Lockyer, Mr. Edward",1248,1,Survived
+"O'Keefe, Mr. Patrick",1249,0,Not Survived
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",1250,0,Not Survived
+"Sage, Master. William Henry",1251,1,Survived
+"Mallet, Mrs. Albert (Antoinette Magnin)",1252,0,Not Survived
+"Ware, Mrs. John James (Florence Louise Long)",1253,1,Survived
+"Strilic, Mr. Ivan",1254,1,Survived
+"Harder, Mrs. George Achilles (Dorothy Annan)",1255,0,Not Survived
+"Sage, Mrs. John (Annie Bullen)",1256,1,Survived
+"Caram, Mr. Joseph",1257,0,Not Survived
+"Riihivouri, Miss. Susanna Juhantytar Sanni""""",1258,0,Not Survived
+"Gibson, Mrs. Leonard (Pauline C Boeson)",1259,1,Survived
+"Pallas y Castello, Mr. Emilio",1260,1,Survived
+"Giles, Mr. Edgar",1261,0,Not Survived
+"Wilson, Miss. Helen Alice",1262,0,Not Survived
+"Ismay, Mr. Joseph Bruce",1263,1,Survived
+"Harbeck, Mr. William H",1264,0,Not Survived
+"Dodge, Mrs. Washington (Ruth Vidaver)",1265,0,Not Survived
+"Bowen, Miss. Grace Scott",1266,1,Survived
+"Kink, Miss. Maria",1267,1,Survived
+"Cotterill, Mr. Henry Harry""""",1268,1,Survived
+"Hipkins, Mr. William Edward",1269,0,Not Survived
+"Asplund, Master. Carl Edgar",1270,0,Not Survived
+"O'Connor, Mr. Patrick",1271,0,Not Survived
+"Foley, Mr. Joseph",1272,0,Not Survived
+"Risien, Mrs. Samuel (Emma)",1273,0,Not Survived
+"McNamee, Mrs. Neal (Eileen O'Leary)",1274,1,Survived
+"Wheeler, Mr. Edwin Frederick""""",1275,1,Survived
+"Herman, Miss. Kate",1276,0,Not Survived
+"Aronsson, Mr. Ernst Axel Algot",1277,1,Survived
+"Ashby, Mr. John",1278,0,Not Survived
+"Canavan, Mr. Patrick",1279,0,Not Survived
+"Palsson, Master. Paul Folke",1280,0,Not Survived
+"Payne, Mr. Vivian Ponsonby",1281,0,Not Survived
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1282,1,Survived
+"Abbott, Master. Eugene Joseph",1283,1,Survived
+"Gilbert, Mr. William",1284,0,Not Survived
+"Kink-Heilmann, Mr. Anton",1285,0,Not Survived
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1286,0,Not Survived
+"Colbert, Mr. Patrick",1287,1,Survived
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1288,0,Not Survived
+"Larsson-Rondberg, Mr. Edvard A",1289,1,Survived
+"Conlon, Mr. Thomas Henry",1290,0,Not Survived
+"Bonnell, Miss. Caroline",1291,0,Not Survived
+"Gale, Mr. Harry",1292,1,Survived
+"Gibson, Miss. Dorothy Winifred",1293,0,Not Survived
+"Carrau, Mr. Jose Pedro",1294,1,Survived
+"Frauenthal, Mr. Isaac Gerald",1295,1,Survived
+"Nourney, Mr. Alfred (Baron von Drachstedt"")""",1296,0,Not Survived
+"Ware, Mr. William Jeffery",1297,0,Not Survived
+"Widener, Mr. George Dunton",1298,0,Not Survived
+"Riordan, Miss. Johanna Hannah""""",1299,0,Not Survived
+"Peacock, Miss. Treasteall",1300,1,Survived
+"Naughton, Miss. Hannah",1301,1,Survived
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",1302,1,Survived
+"Henriksson, Miss. Jenny Lovisa",1303,1,Survived
+"Spector, Mr. Woolf",1304,1,Survived
+"Oliva y Ocana, Dona. Fermina",1305,0,Not Survived
+"Saether, Mr. Simon Sivertsen",1306,1,Survived
+"Ware, Mr. Frederick",1307,0,Not Survived
+"Peter, Master. Michael J",1308,0,Not Survived
